@@ -7,6 +7,11 @@ namespace punto.Models
 {
     public partial class tbevento
     {
+        /// <summary>
+        /// /////////////////////////////////////////////////////////////////////////////////////////////////////
+        /// JHGJHGJHGJHGJKGJKGJKGJKG
+        /// CAMBIO
+        /// </summary>
        [MetadataType(typeof(itbevento))]
         public partial class itbevento
        {
