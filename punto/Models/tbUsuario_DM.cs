@@ -6,7 +6,7 @@ using System.ComponentModel.DataAnnotations;
 namespace punto.Models
 {
     [MetadataType(typeof(tbusuarioDM))]
-    public class tbusuario
+    public partial class tbusuario
     {
         public class tbusuarioDM
         {

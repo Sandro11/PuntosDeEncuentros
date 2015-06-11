@@ -23,62 +23,6 @@ D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\S
 D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\System.Web.WebPages.xml
 D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\System.Web.WebPages.Deployment.xml
 D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\System.Web.WebPages.Razor.xml
-D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\obj\Debug\punto.csprojResolveAssemblyReference.cache
 D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\obj\Debug\punto.dll
 D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\obj\Debug\punto.pdb
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\bin\punto.dll
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\bin\punto.pdb
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\bin\EntityFramework.dll
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\bin\Newtonsoft.Json.dll
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\bin\System.Net.Http.Formatting.dll
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\bin\System.Web.Helpers.dll
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\bin\System.Web.Http.dll
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\bin\System.Web.Http.WebHost.dll
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\bin\System.Web.Mvc.dll
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\bin\System.Web.Razor.dll
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\bin\System.Web.WebPages.dll
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\bin\System.Web.WebPages.Razor.dll
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\bin\EntityFramework.xml
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\bin\Newtonsoft.Json.xml
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\bin\System.Net.Http.Formatting.xml
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\bin\System.Web.Helpers.xml
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\bin\System.Web.Http.xml
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\bin\System.Web.Http.WebHost.xml
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\bin\System.Web.Mvc.xml
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\bin\System.Web.Razor.xml
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\bin\System.Web.WebPages.xml
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\bin\System.Web.WebPages.Razor.xml
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\obj\Debug\punto.csprojResolveAssemblyReference.cache
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\obj\Debug\punto.dll
-C:\Users\Sandro\Documents\Visual Studio 2012\Projects\PuntoDeEncuentro\punto\punto\obj\Debug\punto.pdb
-C:\Users\LAB-PC2\Desktop\punto\punto\bin\punto.dll
-C:\Users\LAB-PC2\Desktop\punto\punto\bin\punto.pdb
-C:\Users\LAB-PC2\Desktop\punto\punto\bin\EntityFramework.dll
-C:\Users\LAB-PC2\Desktop\punto\punto\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\LAB-PC2\Desktop\punto\punto\bin\Newtonsoft.Json.dll
-C:\Users\LAB-PC2\Desktop\punto\punto\bin\System.Net.Http.Formatting.dll
-C:\Users\LAB-PC2\Desktop\punto\punto\bin\System.Web.Helpers.dll
-C:\Users\LAB-PC2\Desktop\punto\punto\bin\System.Web.Http.dll
-C:\Users\LAB-PC2\Desktop\punto\punto\bin\System.Web.Http.WebHost.dll
-C:\Users\LAB-PC2\Desktop\punto\punto\bin\System.Web.Mvc.dll
-C:\Users\LAB-PC2\Desktop\punto\punto\bin\System.Web.Razor.dll
-C:\Users\LAB-PC2\Desktop\punto\punto\bin\System.Web.WebPages.Deployment.dll
-C:\Users\LAB-PC2\Desktop\punto\punto\bin\System.Web.WebPages.dll
-C:\Users\LAB-PC2\Desktop\punto\punto\bin\System.Web.WebPages.Razor.dll
-C:\Users\LAB-PC2\Desktop\punto\punto\bin\EntityFramework.xml
-C:\Users\LAB-PC2\Desktop\punto\punto\bin\Newtonsoft.Json.xml
-C:\Users\LAB-PC2\Desktop\punto\punto\bin\System.Net.Http.Formatting.xml
-C:\Users\LAB-PC2\Desktop\punto\punto\bin\System.Web.Helpers.xml
-C:\Users\LAB-PC2\Desktop\punto\punto\bin\System.Web.Http.xml
-C:\Users\LAB-PC2\Desktop\punto\punto\bin\System.Web.Http.WebHost.xml
-C:\Users\LAB-PC2\Desktop\punto\punto\bin\System.Web.Mvc.xml
-C:\Users\LAB-PC2\Desktop\punto\punto\bin\System.Web.Razor.xml
-C:\Users\LAB-PC2\Desktop\punto\punto\bin\System.Web.WebPages.xml
-C:\Users\LAB-PC2\Desktop\punto\punto\bin\System.Web.WebPages.Deployment.xml
-C:\Users\LAB-PC2\Desktop\punto\punto\bin\System.Web.WebPages.Razor.xml
-C:\Users\LAB-PC2\Desktop\punto\punto\obj\Debug\punto.csprojResolveAssemblyReference.cache
-C:\Users\LAB-PC2\Desktop\punto\punto\obj\Debug\punto.dll
-C:\Users\LAB-PC2\Desktop\punto\punto\obj\Debug\punto.pdb
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\obj\Debug\punto.csprojResolveAssemblyReference.cache

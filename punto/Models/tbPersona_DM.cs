@@ -8,10 +8,7 @@ namespace punto.Models
     [MetadataType(typeof(tbpersonaDM))]
     public partial class tbpersona
     {
-    //    void ss()
-    //    {
-    //    }
-    //}
+ 
         public class tbpersonaDM
         {
             [Required]

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity.Validation;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -15,26 +16,16 @@ namespace punto.Controllers
         {
             punto.Models.puntoencuentroEntities bd = new Models.puntoencuentroEntities();
             punto.Models.tbevento n = new Models.tbevento();
-            punto.Models.tbpersona p = new Models.tbpersona();
-           // n.idpagos = 1;
-           // //n.nombre = "Sandro";
-           // n.imagen = "imagen1";
-           // n.fechacreacion = DateTime.Now;
-           // n.fechamodificacion = DateTime.Now;
-           // n.estado=1;
-           //// n.tbpagolugares=1;
-            //n.estado = 1;
-            //n.titulo = "-";
-            //p.nombre = "sandro";
-            p.paterno = "calcina";
-            p.materno = "salvatierra";
-            p.ci = "8537253";
-            //p.fechanac = "27/12/1991";
-            p.fechacreacion = DateTime.Now;
-            p.fechamodificacion = DateTime.Now;
-            bd.tbpersona.Add(p);
+            n.estado = 1;
+            n.titulo = "h";
+            bd.tbevento.Add(n);
+            if (bd.GetValidationErrors().Count() > 0)
+            { 
+                
+            }
             try
             {
+                
                 if (bd.SaveChanges() == 1)
                 {
                     // correcto
@@ -44,9 +35,12 @@ namespace punto.Controllers
                     //errores en informacion
                 }
             }
-            catch { }
+            catch { 
+                
+            }
+            ViewBag.otro = "uno";
             return View();
         }
-
+        
     }
 }
